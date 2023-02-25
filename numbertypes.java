@@ -14,5 +14,6 @@ public class numbertypes{
         else{
             System.out.println("The Entered Number is Zero");
         }
+        sc.close();
     }
 }
