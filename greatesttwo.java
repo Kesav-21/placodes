@@ -10,6 +10,7 @@ public class greatesttwo {
         if(n1<n2)
         System.out.println("Number 2 is greater than Number 1");
         else
-        System.out.println("Number 1 is greater than Number 2");        
+        System.out.println("Number 1 is greater than Number 2"); 
+        sc.close();      
     }    
 }
