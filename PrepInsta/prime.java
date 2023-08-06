@@ -16,6 +16,7 @@ public class prime{
             }
         }
         String result = flag ? "Prime" : "not Prime";
+        sc.close();
      System.out.println ("The number " + n + " is : " + result);
     }
 }

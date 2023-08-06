@@ -17,6 +17,7 @@ class Rat {
             if (sum >= r * f)
                 break;
         }
+        sc.close();
         System.out.println(count);
     }
 }

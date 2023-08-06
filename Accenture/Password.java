@@ -23,5 +23,6 @@ public class Password {
         else
         flag=0;
         System.out.println(flag);
+        sc.close();
     }
 }
